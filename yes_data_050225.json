@@ -263,16 +263,6 @@
                     "channelId": "YSA2"
                 },
                 {
-                    "id": 97880221,
-                    "programId": 942612,
-                    "title": "מלון ארטמיס",
-                    "description": "מותחן עתידני. בזמן שמהומות ענק מתרחשות בלוס אנג'לס, מפנה שודד בנק את אחיו הפצוע למרפאה סודית לעבריינים, אותה מנהלת אחות קשוחה. המצב המתוח מוביל בהדרגה לפיצוץ. עם: ג'ודי פוסטר, דייב בטיסטה. במאי: דרו פירס. ארה\"ב, 2018.",
-                    "imageUrl": "https://fykswkmjb.filerobot.com/VodAndHomeChan/VP001109275.JPG",
-                    "starts": "2025-02-05T10:21:00Z",
-                    "ends": "2025-02-05T11:56:00Z",
-                    "channelId": "YSA2"
-                },
-                {
                     "id": 97880677,
                     "programId": 3025090,
                     "title": "מבוקש מספר אחת",
@@ -1590,16 +1580,6 @@
                     "imageUrl": "https://fykswkmjb.filerobot.com/VodAndHomeChan/VP001798744.JPG",
                     "starts": "2025-02-05T21:40:00Z",
                     "ends": "2025-02-05T22:35:00Z",
-                    "channelId": "YSAT"
-                },
-                {
-                    "id": 97612877,
-                    "programId": 3046642,
-                    "title": "מאדים - הפרידה הארוכה מכולן",
-                    "description": "סרט מאת הבמאי הישראלי עידו מזרחי, המתעד מאחורי הקלעים את התוכנית הגרנדיוזית של נאס\"א, לשלוח בני אדם למאדים בעשור הקרוב. מזרחי משוחח בין היתר עם אסטרונאוטית לשעבר, שהיא ומשפחתה עדיין מנסים להתגבר על החוויה המטלטלת שעברו. 2023.",
-                    "imageUrl": "https://fykswkmjb.filerobot.com/VodAndHomeChan/VP003292114.JPG",
-                    "starts": "2025-02-05T10:25:00Z",
-                    "ends": "2025-02-05T11:55:00Z",
                     "channelId": "YSAT"
                 },
                 {
@@ -2971,16 +2951,6 @@
                     "starts": "2025-02-05T12:24:00Z",
                     "ends": "2025-02-05T12:49:00Z",
                     "channelId": "YESP"
-                },
-                {
-                    "id": 97781287,
-                    "programId": 3294376,
-                    "title": "המשרד 3 - פרק 22",
-                    "description": "המשרד רועש וגועש לאחר שאדם זר חושף את עצמו בפני פיליס.",
-                    "imageUrl": "https://fykswkmjb.filerobot.com/VodAndHomeChan/VP003500979.JPG",
-                    "starts": "2025-02-05T11:29:00Z",
-                    "ends": "2025-02-05T11:59:00Z",
-                    "channelId": "YESP"
                 }
             ]
         },
@@ -4283,16 +4253,6 @@
         "2025-02-05": {
             "items": [
                 {
-                    "id": 97990559,
-                    "programId": 1890687,
-                    "title": "1 נגד 100 - עונה 4 - תכנית המאה",
-                    "description": "תכנית המאה של 1 נגד 100. ש.ח.",
-                    "imageUrl": "https://fykswkmjb.filerobot.com/extch/SI37987.JPG",
-                    "starts": "2025-02-05T11:05:00Z",
-                    "ends": "2025-02-05T11:49:00Z",
-                    "channelId": "CH81"
-                },
-                {
                     "id": 97990560,
                     "programId": 3971639,
                     "title": "דיל או לא דיל אוסטרליה - פרק 104",
@@ -4790,16 +4750,6 @@
                     "imageUrl": "https://fykswkmjb.filerobot.com/extch/SI69656.JPG",
                     "starts": "2025-02-05T19:22:00Z",
                     "ends": "2025-02-05T19:47:00Z",
-                    "channelId": "CN26"
-                },
-                {
-                    "id": 97952844,
-                    "programId": 3645616,
-                    "title": "נשואים פלוס - עונה 7 - פרק 18",
-                    "description": "בזמן שהיא קוראת רומן רומנטי, פג מפנטזת שהיא גברת במצוקה ואל הוא הפיראט שמציל אותה. ש.ח.",
-                    "imageUrl": "https://fykswkmjb.filerobot.com/extch/SI69944.JPG",
-                    "starts": "2025-02-05T11:38:00Z",
-                    "ends": "2025-02-05T12:01:00Z",
                     "channelId": "CN26"
                 },
                 {
