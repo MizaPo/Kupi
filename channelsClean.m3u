@@ -1,40 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Kan 11-IS" tvg-name="IL: Kan 11" tvg-language="Hebrew" tvg-logo="https://raw.githubusercontent.com/foxman69/Channels/main/Kan11Logo.png" tvg-country="IL" tvg-url="" group-title="",Kan 11
-https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/kan11_hevc/live.livx/playlist.m3u8?fmp4&renditions
+#EXTINF:0 tvg-id="kan-11-YES" tvg-logo="https://MizaPo.github.io/picons/light/Kan-11.png" group-title="גיבוי" timeshift="", כאן 11
+https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" seekable="true" tvg-language="Hebrew" tvg-logo="https://i.ibb.co/qBKNrv5/keshet.png" tvg-country="IL" tvg-url="" group-title="",12
+#EXTINF:0 tvg-id="kan-11-YES" tvg-logo="https://MizaPo.github.io/picons/light/Kan-11.png" group-title="גיבוי" timeshift="", 2-כאן 11
+https://kan11sub.media.kan.org.il/hls/live/2024678/2024678/master.m3u8
+
+#EXTINF:0 tvg-id="keshet-12-YES" tvg-logo="https://MizaPo.github.io/picons/light/Keshet-12.png" group-title="גיבוי" timeshift="", קשת 12
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/keshet_12_hevc/live.livx/playlist.m3u8?fmp4&renditions
 
-#EXTINF:-1 tvg-id="Channel 13 Reshet-IS" seekable="true" tvg-name="IL: ISRAEL Channel 13 Reshet" tvg-language="Hebrew" tvg-logo="https://media.reshet.tv/image/upload/v1505910155/logo-final-13-reshet-red_a5lwvy.jpg" tvg-country="IL" tvg-url="" group-title="General",Reshet 13 רשת HD
+#EXTINF:0 tvg-id="reshet-13-YES" tvg-logo="https://MizaPo.github.io/picons/light/Reshet-13.png" group-title="גיבוי" timeshift="", רשת 13
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/reshet_13_hevc/live.livx/playlist.m3u8?fmp4&renditions
 
-#EXTINF:-1 tvg-id="Kan 11-IS" tvg-name="IL: Kan 11" tvg-language="Hebrew" tvg-logo="https://raw.githubusercontent.com/foxman69/Channels/main/Kan11Logo.png" tvg-country="IL" tvg-url="" group-title="",Kan 11
-https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
+#EXTINF:0 tvg-id="reshet-13-YES" tvg-logo="https://MizaPo.github.io/picons/light/Reshet-13.png" group-title="גיבוי" timeshift="", 2-רשת 13
+https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_l38msgjy/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 
-#EXTINF:-1 tvg-id="Channel 13 Reshet-IS" seekable="true" tvg-name="IL: ISRAEL Channel 13 Reshet" tvg-language="Hebrew" tvg-logo="https://media.reshet.tv/image/upload/v1505910155/logo-final-13-reshet-red_a5lwvy.jpg" tvg-country="IL" tvg-url="" group-title="General",Reshet 13 רשת HD
-https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/LOGO_i24NEWS.png" group-title="",i24Hebrew
-https://bcovlive-a.akamaihd.net/54b8e6b753e3409c91856201d1f08731/eu-central-1/5377161796001/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Relevant_logo.jpeg" group-title="",Relevant
-https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/06e44cd7f7e0445fbd669f279c997fd4/index.mpd
-
-#EXTINF:0 tvg-logo="https://www.now14.co.il/wp-content/themes/14-child/assets/logo14/Desktop_Logo1.png" group-title="|IL| 1. ISRAEL",CH 14
-https://now14.g-mana.live/media/91517161-44ab-4e46-af70-e9fe26117d2e/mainManifest.m3u8
-
-#EXTINF:0 tvg-logo="https://www.now14.co.il/wp-content/themes/14-child/assets/logo14/Desktop_Logo1.png" group-title="|IL| 1. ISRAEL",CH 14
+#EXTINF:0 tvg-id="now-14-YES" tvg-logo="https://MizaPo.github.io/picons/light/Channel-14.png" group-title="גיבוי" timeshift="", ערוץ 14
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/ch14_hevc/live.livx/playlist.m3u8?fmp4&renditions
 
-#EXTINF:-1 tvg-id="Kan 23-IS" tvg-name="IL: Kan 23" tvg-language="Hebrew" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/2880px-KanHinuchit.svg.png" tvg-country="IL" tvg-url="" group-title="Kids",ch 23 החינוכית
-https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
+#EXTINF:0 tvg-id="now-14-YES" tvg-logo="https://MizaPo.github.io/picons/light/Channel-14.png" group-title="גיבוי" timeshift="", 2-ערוץ 14
+https://ch14-channel14-content.akamaized.net/hls/live/2104807/CH14_CHANNEL14/master.m3u8
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/zP5vjLD/knesset.png" group-title="|IL| 1. ISRAEL",KNESSET
-https://contactgbs.mmdlive.lldns.net/contactgbs/a40693c59c714fecbcba2cee6e5ab957/manifest.m3u8
-
-#EXTINF:-1 tvg-id="Shopping Channel-IS" tvg-name="IL: shopping channel" tvg-language="Hebrew" tvg-logo="https://upload.wikimedia.org/wikipedia/he/b/b9/סמליל_ערוץ_הקניות.jpg" tvg-country="IL" tvg-url="" group-title="Shop",ch 21 ערוץ הקניות
-https://shoppingil-rewriter.vidnt.com/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.sport5.co.il/Images/Rebrand/sport5og.png" tvg-country="IL" tvg-url="" group-title="",Sport 5 Direct
-https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
+#EXTINF:0 tvg-id="i24-news-he-YES" tvg-logo="https://MizaPo.github.io/picons/light/i24.png" group-title="גיבוי" timeshift="", i24
+https://bcovlive-a.akamaihd.net/54b8e6b753e3409c91856201d1f08731/eu-central-1/5377161796001/playlist.m3u8
