@@ -1,21 +1,15 @@
 <tv generator-info-name="Custom-EPG-Gen" generator-info-url="https://github.com/your-repo">
-  <channel id="IL: FREE TV HATUNAMI ᴴᴰ">
-    <display-name>ערוץ חתונה ממבט ראשון</display-name>
-  </channel>
-  <channel id="IL: FREE TV MOVIES DRAMA ᴴᴰ">
-    <display-name>FreeTV סרטים דרמה</display-name>
-  </channel>
-  <channel id="IL: FREE TV MOVIES ACTION ᴴᴰ">
-    <display-name>FreeTV סרטים פעולה</display-name>
+  <channel id="IL: FREE TV FAMiLY ISRAELI ᴴᴰ">
+    <display-name>FreeTV סרטים משפחה</display-name>
   </channel>
   <channel id="IL: FREE TV DRAMA ᴴᴰ">
     <display-name>FreeTV סדרות דרמה</display-name>
   </channel>
-  <channel id="IL: MOVIES ᴴᴰ">
-    <display-name>ישראלי tv</display-name>
+  <channel id="IL: FREE TV MOVIES SAVRI ᴴᴰ">
+    <display-name>ערוץ סברי מרנן</display-name>
   </channel>
-  <channel id="IL: FREE TV NEXT STAR ᴴᴰ">
-    <display-name>ערוץ הכוכב הבא</display-name>
+  <channel id="IL: FREE TV EREZ NEHEDERET ᴴᴰ">
+    <display-name>ערוץ ארץ נהדרת</display-name>
   </channel>
   <channel id="IL: FREE TV LIFESTYLE ᴴᴰ">
     <display-name>FreeTV לייף סטייל</display-name>
@@ -23,271 +17,39 @@
   <channel id="IL: FREE TV TV SERIES ᴴᴰ">
     <display-name>FreeTV_Global2</display-name>
   </channel>
-  <channel id="IL: KIDS ᴴᴰ">
-    <display-name>סלקום קידס</display-name>
+  <channel id="IL: MOVIES ᴴᴰ">
+    <display-name>ישראלי tv</display-name>
   </channel>
-  <channel id="IL: DOCU ᴴᴰ">
-    <display-name>סלקום דוקו</display-name>
-  </channel>
-  <channel id="IL: FREE TV MOVIES SAVRI ᴴᴰ">
-    <display-name>ערוץ סברי מרנן</display-name>
+  <channel id="IL: FREE TV MOVIES ACTION ᴴᴰ">
+    <display-name>FreeTV סרטים פעולה</display-name>
   </channel>
   <channel id="IL: FREE TV COMEDY ᴴᴰ">
     <display-name>FreeTV סדרות קומדיה</display-name>
   </channel>
-  <channel id="IL: FREE TV MOVIES ISRAELI ᴴᴰ">
-    <display-name>FreeTV סרטים ישראלי</display-name>
+  <channel id="IL: FREE TV HATUNAMI ᴴᴰ">
+    <display-name>ערוץ חתונה ממבט ראשון</display-name>
+  </channel>
+  <channel id="IL: DOCU ᴴᴰ">
+    <display-name>סלקום דוקו</display-name>
+  </channel>
+  <channel id="IL: KIDS ᴴᴰ">
+    <display-name>סלקום קידס</display-name>
+  </channel>
+  <channel id="IL: FREE TV NEXT STAR ᴴᴰ">
+    <display-name>ערוץ הכוכב הבא</display-name>
   </channel>
   <channel id="IL: FREE TV MOVIES ROMANTIC ᴴᴰ">
     <display-name>FreeTV סרטים רומנטי</display-name>
   </channel>
-  <channel id="IL: FREE TV EREZ NEHEDERET ᴴᴰ">
-    <display-name>ערוץ ארץ נהדרת</display-name>
+  <channel id="IL: FREE TV MOVIES DRAMA ᴴᴰ">
+    <display-name>FreeTV סרטים דרמה</display-name>
   </channel>
-  <channel id="IL: FREE TV FAMiLY ISRAELI ᴴᴰ">
-    <display-name>FreeTV סרטים משפחה</display-name>
+  <channel id="IL: FREE TV MOVIES ISRAELI ᴴᴰ">
+    <display-name>FreeTV סרטים ישראלי</display-name>
   </channel>
   <channel id="IL: FREE TV MOVIES HORROR ᴴᴰ">
     <display-name>FreeTV סרטים אימה</display-name>
   </channel>
-  <programme start="20251231134547 +0000" stop="20251231145233 +0000" channel="IL: FREE TV HATUNAMI ᴴᴰ">
-    <title lang="he">חתונה ממבט שני 1 - מה השתבש בחופה?</title>
-    <desc lang="he">מה השתבש בחופה של שלי? שודר בתאריך: 18/08/2025.</desc>
-    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/65260/COVER/images/65260_1761028752765.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
-  </programme>
-  <programme start="20251231195748 +0000" stop="20251231205327 +0000" channel="IL: FREE TV HATUNAMI ᴴᴰ">
-    <title lang="he">חתונה ממבט שני 1 - החומות נופלות</title>
-    <desc lang="he">המפגש שאחריו הכל משתנה.  שודר בתאריך: 04/09/2025.</desc>
-    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/65260/COVER/images/65260_1761028752765.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
-  </programme>
-  <programme start="20251231205327 +0000" stop="20251231215015 +0000" channel="IL: FREE TV HATUNAMI ᴴᴰ">
-    <title lang="he">חתונה ממבט שני 1 - יום משוגע בתאילנד </title>
-    <desc lang="he">יום משוגע בתאילנד . שודר בתאריך: 07/09/2025.</desc>
-    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/65260/COVER/images/65260_1761028752765.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
-  </programme>
-  <programme start="20251231224800 +0000" stop="20251231235007 +0000" channel="IL: FREE TV HATUNAMI ᴴᴰ">
-    <title lang="he">חתונה ממבט שני 1 - ג'ורדי נלחצת</title>
-    <desc lang="he">האם ג'ורדי מקבלת רגליים קרות?
-שודר בתאריך: 11/09/2025.</desc>
-    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/65260/COVER/images/65260_1761028752765.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
-  </programme>
-  <programme start="20251231141431 +0000" stop="20251231162224 +0000" channel="IL: FREE TV MOVIES DRAMA ᴴᴰ">
-    <title lang="he">אמיליה פרז</title>
-    <desc lang="he">ריטה, עורכת דין שחוקה, נקראת לפגישה מסתורית עם ראש קרטל במקסיקו. להפתעתה, הוא מבקש את עזרתה להגשים חלום – לעבור ניתוח לשינוי מין ולחיות תחת הזהות הנשית שלו: אמיליה פרז.</desc>
-    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/62858/COVER/images/62858_1759640642712.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
-  </programme>
-  <programme start="20251231162224 +0000" stop="20251231174450 +0000" channel="IL: FREE TV MOVIES DRAMA ᴴᴰ">
-    <title lang="he">התלקחות</title>
-    <desc lang="he">סימון גר עם ג'וזף, אביו המזדקן, בדרום צרפת. כאשר פורצת שריפה ענקית באיזור שבו הם מתגוררים, הצמד נאלץ לצאת למסע השרדות בלתי נתפס בתוך הלהבות הבוערות.</desc>
-    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/39296/COVER/images/39296_1760015017252.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
-  </programme>
-  <programme start="20251231174450 +0000" stop="20251231192205 +0000" channel="IL: FREE TV MOVIES DRAMA ᴴᴰ">
-    <title lang="he">ארבעה ימים טובים</title>
-    <desc lang="he">מולי, בת ה-31 , מתחננת אל אמה המיואשת, שתעזור לה להלחם בהתמכרות שלה. אמה, שחוותה אינספור אכזבות נוכח הכשלונות שלה לעזור למולי בעבר, מחליטה לנסות פעם אחת אחרונה להציל את חייה של בתה האהובה.</desc>
-    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/5129/COVER/images/5129_1764133274157.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
-  </programme>
-  <programme start="20251231210000 +0000" stop="20251231224058 +0000" channel="IL: FREE TV MOVIES DRAMA ᴴᴰ">
-    <title lang="he">כאן ולתמיד</title>
-    <desc lang="he">סרטו החדש של רוברט זמקיס, בכיכובם של טום הנקס ורובין רייט, עוקב אחר בית אחד ודייריו לאורך דורות, תוך שימוש בטכנולוגיה חדשנית לשינוי גיל הדמויות.</desc>
-    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/63692/COVER/images/63692_1759640615179.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
-  </programme>
-  <programme start="20260101142033 +0000" stop="20260101160356 +0000" channel="IL: FREE TV MOVIES DRAMA ᴴᴰ">
-    <title lang="he">וויפלאש</title>
-    <desc lang="he">אנדרו, חולם להיות מוזיקאי מצליח. המורה שלו למוסיקה, פלטשר, אינו עושה לו הנחות ומעביר אותו משטר לימודים אינטנסיבי ולא שגרתי.</desc>
-    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/6987/COVER/images/6987_1759640580490.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
-  </programme>
-  <programme start="20260101160356 +0000" stop="20260101174454 +0000" channel="IL: FREE TV MOVIES DRAMA ᴴᴰ">
-    <title lang="he">זואי</title>
-    <desc lang="he">זואי וקול עובדים במעבדה שמטרתה לשפר מערכות יחסים. הם פוצחים ברומן ובהמשך נחשפת האמת על היחסים שלהם, מה שמעמיד את קיומם בסכנה.</desc>
-    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/9610/COVER/images/9610_1759640465295.png?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
-  </programme>
-  <programme start="20260101230424 +0000" stop="20260102004240 +0000" channel="IL: FREE TV MOVIES DRAMA ᴴᴰ">
-    <title lang="he">הסוף ממנו מתחילים</title>
-    <desc lang="he">כשלונדון מוצפת במים בעקבות אסון סביבתי אפוקליפטי, אישה צעירה מאבדת את הקשר עם משפחתה ומנסה עם תינוקה, כנגד כל הסיכויים, למצוא את דרכה הביתה.</desc>
-    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/62464/COVER/images/62464_1760602127350.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
-  </programme>
-  <programme start="20251231192536 +0000" stop="20251231210000 +0000" channel="IL: FREE TV MOVIES ACTION ᴴᴰ">
-    <title lang="he">המפעיל בשירות ה-CIA</title>
-    <desc lang="he">בן מאלוי, מפעיל CIA לשעבר, חוזר לעולם הצללים לאחר שאשתו נהרגת בפיצוץ מסתורי. מידע חדש חושף קונספירציה המטלטלת את עברו ואת נאמנותו.</desc>
-    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/65098/COVER/images/65098_1760602304493.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
-  </programme>
-  <programme start="20251231230031 +0000" stop="20260101003134 +0000" channel="IL: FREE TV MOVIES ACTION ᴴᴰ">
-    <title lang="he">טרף קל</title>
-    <desc lang="he">סטיבן, מתנקש, נשלח לחסל את אלה, נערה צעירה ועשירה. המפגש בינם מצית בו רגשות עזים והוא לראשונה בחייו אינו מסוגל לבצע את משימתו.</desc>
-    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/13484/COVER/images/13484_1761800623528.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
-  </programme>
-  <programme start="20260101003134 +0000" stop="20260101021131 +0000" channel="IL: FREE TV MOVIES ACTION ᴴᴰ">
-    <title lang="he">מלכודת בספארי</title>
-    <desc lang="he">דרמת השרדות מלאת אקשן אודות משפחה שמטיילת בספארי של קניה. היא חווה תאונה שמשאירה אותה לכודה ללא הגנה אל מול חיות הפרא של הספארי.</desc>
-    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/8292/COVER/images/8292_1764219856477.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
-  </programme>
-  <programme start="20260101035402 +0000" stop="20260101053200 +0000" channel="IL: FREE TV MOVIES ACTION ᴴᴰ">
-    <title lang="he">16 רחובות</title>
-    <desc lang="he">שוטר נאלץ לקחת עד ראיה צעיר 16 רחובות מתחנת המשטרה אל בית המשפט. הפעולה הזו מסתכבת כשאנשים אינם מוכנים שהעד יגיע ליעדו.</desc>
-    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/11461/COVER/images/11461_1760015183001.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
-  </programme>
-  <programme start="20260101053200 +0000" stop="20260101074410 +0000" channel="IL: FREE TV MOVIES ACTION ᴴᴰ">
-    <title lang="he">רק האמיצים</title>
-    <desc lang="he">סיפורה האמיתי של יחידת כבאים קהילתית שבאמצעות מעשי גבורה יוצאי דופן הצליחה להגן על האזרחים מפני אחת השריפות הקשות בארה"ב.</desc>
-    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/10903/COVER/images/10903_1762123345251.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
-  </programme>
-  <programme start="20260101074410 +0000" stop="20260101091850 +0000" channel="IL: FREE TV MOVIES ACTION ᴴᴰ">
-    <title lang="he">לחטוף את פרדי הייניקן</title>
-    <desc lang="he">כשהבנק מסרב להעניק להם הלוואה, חמישה חברי ילדות מחליטים לחטוף את פרדי הייניקן, מנכ"ל מותג הבירה הגדול באירופה.</desc>
-    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/11215/COVER/images/11215_1761193677539.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
-  </programme>
-  <programme start="20260101091850 +0000" stop="20260101111333 +0000" channel="IL: FREE TV MOVIES ACTION ᴴᴰ">
-    <title lang="he">ניקיטה</title>
-    <desc lang="he">לאחר שנתפסה על חם במהלך שוד, נלקחה צעירה פרועה ומרדנית לחינוך מחדש על ידי סוכנות ממשלתית חשאית, שם מלמדים אותה להיות רוצחת מיומנת וקטלנית בשירות השלטון.</desc>
-    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/46631/COVER/images/46631_1760602263946.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
-  </programme>
-  <programme start="20260101141608 +0000" stop="20260101154835 +0000" channel="IL: FREE TV MOVIES ACTION ᴴᴰ">
-    <title lang="he">רוצחים אנונימיים</title>
-    <desc lang="he">במפגש בין מחסלים קטלניים ביותר, מנסים המחסלים להבין מי מבניהם אחראי לניסיון חיסול של סנטור אמריקאי שהפך אותם למטרה ע"י המשטרה.</desc>
-    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/14904/COVER/images/14904_1760602275717.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
-  </programme>
-  <programme start="20260101154835 +0000" stop="20260101171926 +0000" channel="IL: FREE TV MOVIES ACTION ᴴᴰ">
-    <title lang="he">מרדף חכם</title>
-    <desc lang="he">דני מתבקש לאבטח את העברתו של פריט סיני עתיק. כשאהובת ליבו בסכנה ויושרו המקצועי מוטל בספק, דני יוצא להחזיר את הסדר לרחובות שנחאי.</desc>
-    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/11347/COVER/images/11347_1761193692138.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
-  </programme>
-  <programme start="20260101171926 +0000" stop="20260101185002 +0000" channel="IL: FREE TV MOVIES ACTION ᴴᴰ">
-    <title lang="he">חטוף בלתי צפוי</title>
-    <desc lang="he">אב יחידני שעובד בשירותי הרווחה,  לוחם מארינס שהשתחרר עם הלם קרב, מוצא עצמו לכוד בחנות של אביו החורג ויוצא לקרב על חייו ועל חיי הלקוחות מול חבורת פושעים מסוכנת.</desc>
-    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/48500/COVER/images/48500_1760602283375.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
-  </programme>
-  <programme start="20260101165639 +0000" stop="20260101174631 +0000" channel="IL: FREE TV DRAMA ᴴᴰ">
-    <title lang="he">חטופים 2 - מותו של סוכן</title>
-    <desc lang="he">אנו חוזרים לעברו של ג'מאל ונחשפים לתפניות מרעישות בעלילה. יוסוף אינו מרוצה מהקשר של איסמעיל ועבדאללה. אורי סובל ממצב גופני ירוד והולך לבקר את הרופא המשפחתי</desc>
-    <icon src="//r-scale-76.dcs.redcdn.pl/scale/o2/portal/local/upload/programme/4022COVER/images/4022COVER_1682633793271?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
-  </programme>
-  <programme start="20260101165709 +0000" stop="20260101175713 +0000" channel="IL: FREE TV HATUNAMI ᴴᴰ">
-    <title lang="he">חתונה ממבט ראשון 6 - הסודות יוצאים</title>
-    <desc lang="he">המומחים מדברים על הסערה ברשתות החברתיות. שודר בתאריך: 17/07/2023</desc>
-    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/28441/COVER/images/28441_1761193135061.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
-  </programme>
-  <programme start="20260101170000 +0000" stop="20260101185000 +0000" channel="IL: MOVIES ᴴᴰ">
-    <title lang="he"> שלוש אמהות</title>
-    <desc lang="he">
-     שלישיית בנות 60 מספרות את סיפור חייהן במבט לאחור וחושפות את כל הסודות, השקרים והבגידות. עם: גילה אלמגור, מירי מסיקה, טלי שרון. בימוי: דינה צבי ריקליס, 2006 כ' עב'.
-    </desc>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/51cecd73c80e491bb87533c1b3874265/version/0" />
-  </programme>
-  <programme start="20260101170638 +0000" stop="20260101180332 +0000" channel="IL: FREE TV NEXT STAR ᴴᴰ">
-    <title lang="he">כוכב נולד 6 - האודישנים נמשכים</title>
-    <desc lang="he">התחרות ממשיכה והמתחרים נבחנים באודישנים</desc>
-    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/23390/COVER/images/23390_1766387609731.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
-  </programme>
-  <programme start="20260101170656 +0000" stop="20260101175152 +0000" channel="IL: FREE TV LIFESTYLE ᴴᴰ">
-    <title lang="he"> 2 - המחלצים - עונה 2</title>
-    <desc lang="he">אופרטור החילוץ, כריס ארוסמית, עוזר באירוע של תאונת דרכים, באחד מהכבישים העמוסים ביותר בבריטניה.</desc>
-    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/9933/COVER/images/9933_1764824420203.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
-  </programme>
-  <programme start="20260101170717 +0000" stop="20260101175713 +0000" channel="IL: FREE TV TV SERIES ᴴᴰ">
-    <title lang="he">הפריצה למערכת 1 - פרק 3</title>
-    <desc lang="he">ניק נלחם כדי להגן על העורך שלו ועל העיתון בזמן שהוא יוצר בריתות חדשות ומתעמת עם הסקוטלנד יארד.</desc>
-    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/67014/COVER/images/67014_1766412046618.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
-  </programme>
-  <programme start="20260101171234 +0000" stop="20260101185905 +0000" channel="IL: KIDS ᴴᴰ">
-    <title lang="he">אסטריקס ואובליקס: הממלכה התיכונה</title>
-    <desc lang="he">אסטריקס ואובליקס במסע לסין, שם הם יסייעו לנסיכה פו יי להציל את הקיסר מהנסיך הבוגדני</desc>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/755381c83c7640cb87f7b15528c5429c/version/0" />
-  </programme>
-  <programme start="20260101171708 +0000" stop="20260101185826 +0000" channel="IL: DOCU ᴴᴰ">
-    <title lang="he">אימא שלי, ג'יין מנספילד</title>
-    <desc lang="he">תיעודי. מרישקה הרגיטאי, המוכרת מהסדרה "חוק וסדר", מתחקה אחר חייה של אימה, ג'יין מנספילד, שמתה באופן טרגי בגיל 34 כשמרישקה הייתה בת שלוש.</desc>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ba9606ef71a84844992951c4948fddab/version/0" />
-  </programme>
-  <programme start="20260101171852 +0000" stop="20260101174203 +0000" channel="IL: FREE TV MOVIES SAVRI ᴴᴰ">
-    <title lang="he">סברי מרנן 2 - יוצאים לטיול</title>
-    <desc lang="he">אצל איזו משפחה קשה יותר לנסוע לחו"ל?</desc>
-    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/11778/COVER/images/11778_1756919025577.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
-  </programme>
-  <programme start="20260101171926 +0000" stop="20260101185002 +0000" channel="IL: FREE TV MOVIES ACTION ᴴᴰ">
-    <title lang="he">חטוף בלתי צפוי</title>
-    <desc lang="he">אב יחידני שעובד בשירותי הרווחה,  לוחם מארינס שהשתחרר עם הלם קרב, מוצא עצמו לכוד בחנות של אביו החורג ויוצא לקרב על חייו ועל חיי הלקוחות מול חבורת פושעים מסוכנת.</desc>
-    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/48500/COVER/images/48500_1760602283375.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
-  </programme>
-  <programme start="20260101172203 +0000" stop="20260101181556 +0000" channel="IL: FREE TV COMEDY ᴴᴰ">
-    <title lang="he">ארץ נהדרת 23 - הסערות האמיתיות מגיעות</title>
-    <desc lang="he">הסערות הגדולות באמת מתפרצות לאולפן! סערת האירוויזיון והמדינות הפורשות, סערת כ"ץ נגד זמיר, ולקינוח סערת מיכל הקטנה. וגם: מה קרה כשיוסף חדאד הגיע לנתב"ג?</desc>
-    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/9869/COVER/images/9869_1762437609819.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
-  </programme>
-  <programme start="20260101172357 +0000" stop="20260101193000 +0000" channel="IL: FREE TV MOVIES ISRAELI ᴴᴰ">
-    <title lang="he">השתיקה</title>
-    <desc lang="he">אמו של אביהו שקעה בשתיקה מוחלטת והוא לא מבין למה. אביב, תלמידו לשעבר, הופך למועמד המוביל בבחירות לראשות הממשלה למרות שגם הוא שותק - שתיקה שמסכנת את אביהו ומשפחתו.</desc>
-    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/58263/COVER/images/58263_1761033925664.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
-  </programme>
-  <programme start="20260101173830 +0000" stop="20260101191717 +0000" channel="IL: FREE TV MOVIES ROMANTIC ᴴᴰ">
-    <title lang="he">משחק השנאה</title>
-    <desc lang="he">לוסי אהובה על ידי כל עמיתיה. ג'וש שנוא על ידי כולם במשרד. שניהם מתחרים על קידום, המתח ביניהם גובר והופך לאהבה ומשיכה בלתי נשלטת.</desc>
-    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/8301/COVER/images/8301_1759664622957.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
-  </programme>
-  <programme start="20260101174203 +0000" stop="20260101180511 +0000" channel="IL: FREE TV MOVIES SAVRI ᴴᴰ">
-    <title lang="he">סברי מרנן 1 - משפחה כאילו</title>
-    <desc lang="he">מיכל מחליטה לפתור בעיות בטיפול טלוויזיוני</desc>
-    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/11861/COVER/images/11861_1756919039751.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
-  </programme>
-  <programme start="20260101174322 +0000" stop="20260101183947 +0000" channel="IL: FREE TV EREZ NEHEDERET ᴴᴰ">
-    <title lang="he">ארץ נהדרת 23 - כל הזוגות מגיעים</title>
-    <desc lang="he">תתכוננו לניסוי הגדול של ארץ נהדרת במי מלח! בהשתתפות כל הזוגות החמים של השבוע: טראמפ ואל-ג'ולאני, נועה קירל ודניאל פרץ, ואפילו דודי אמסלם והלא–בת זוג שלו…</desc>
-    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/66719/COVER/images/66719_1763388637388.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
-  </programme>
-  <programme start="20260101174454 +0000" stop="20260101192338 +0000" channel="IL: FREE TV MOVIES DRAMA ᴴᴰ">
-    <title lang="he">באש ובמים</title>
-    <desc lang="he">שני אחים מתבשרים שהחווה שלהם עומדת בפני פשיטת רגל. הם יוצאים למסע שוד במטרה להציל את העסק המשפחתי כששוטר ותיק דולק בעקבותיהם.</desc>
-    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/5200/COVER/images/5200_1760015055306.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
-  </programme>
-  <programme start="20260101174631 +0000" stop="20260101182748 +0000" channel="IL: FREE TV DRAMA ᴴᴰ">
-    <title lang="he">הראש 1 - איתמר חוצה את הקווים </title>
-    <desc lang="he">הסוכנת הכי חשובה שלו בסכנה, וכדי להציל אותה הוא עומד בפעם הראשונה לחצות את הקווים. עד כמה רחוק ילך איתמר?</desc>
-    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/9630/COVER/images/9630_1746432050435.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
-  </programme>
-  <programme start="20260101175105 +0000" stop="20260101191914 +0000" channel="IL: FREE TV COMEDY ᴴᴰ">
-    <title lang="he">טיפול משפחתי</title>
-    <desc lang="he">חייו של הפסיכולוג ד"ר ברנז'ה כמעט מושלמים, אך יש לו מטופל מעצבן מעט ששמו דמיאן. הפסיכולוג מייעץ לו לחפש אהבה כדי להיפטר ממנו, אך הדבר חוזר אליו כמו בומרנג.</desc>
-    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/65593/COVER/images/65593_1760602464770.png?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
-  </programme>
-  <programme start="20260101175152 +0000" stop="20260101181400 +0000" channel="IL: FREE TV LIFESTYLE ᴴᴰ">
-    <title lang="he">השף המעופף 1 - איטליה- מנות ראשונות</title>
-    <desc lang="he">השף המעופף מסייר בפיימונטה שבצפון איטליה בחיפושו הבלתי נלאה אחר המנה הטעימה בתבל. מינסטרונה, בניה קאודה, פרמג'נה, לאוורלו – כל אלה מצטופפים ברשימת המועמדים</desc>
-    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/8833/COVER/images/8833_1695783652242.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
-  </programme>
-  <programme start="20260101175713 +0000" stop="20260101182051 +0000" channel="IL: FREE TV TV SERIES ᴴᴰ">
-    <title lang="he">אחיות 2 - פרק 3</title>
-    <desc lang="he">סוז מקבלת בשורה רעה ממרפאת הפוריות. כל הנשים יוצאות למסיבת הרווקות של שר, שם סוז פוגשת את שלי, שחושפת בפניה משהו שהיא לא ידעה לגבי שר.</desc>
-    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/67139/COVER/images/67139_1765202793019.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
-  </programme>
-  <programme start="20260101175713 +0000" stop="20260101185501 +0000" channel="IL: FREE TV HATUNAMI ᴴᴰ">
-    <title lang="he">חתונה ממבט ראשון 6 - מור מפסיקה לשתוק</title>
-    <desc lang="he">מור דורשת לדעת מה שניר מרגיש כלפיה. שודר בתאריך: 20/07/2023.</desc>
-    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/28441/COVER/images/28441_1761193135061.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
-  </programme>
-  <programme start="20260101180332 +0000" stop="20260101190050 +0000" channel="IL: FREE TV NEXT STAR ᴴᴰ">
-    <title lang="he">הכוכב הבא 10 - היהלום של האירוויזיון?</title>
-    <desc lang="he">האודישן המיוחד ויוצא דופן של רומי נץ. שודר בתאריך: 18/12/2023.</desc>
-    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/44663/COVER/images/44663_1757001559320.png?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
-  </programme>
-  <programme start="20260101180511 +0000" stop="20260101182851 +0000" channel="IL: FREE TV MOVIES SAVRI ᴴᴰ">
-    <title lang="he">סברי מרנן 1 - סודות</title>
-    <desc lang="he">רחל מגלה סוד כמוס מעברו של סילבן בעלה</desc>
-    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/11861/COVER/images/11861_1756919039751.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
-  </programme>
-  <programme start="20260101181400 +0000" stop="20260101184301 +0000" channel="IL: FREE TV LIFESTYLE ᴴᴰ">
-    <title lang="he">עד הבית 1 - פרק 18</title>
-    <desc lang="he">עדי נגר וצוות המומחים עם כל מה שחייבים לדעת לפני שקונים, משפצים או מעצבים מחדש את הבית</desc>
-    <icon src="//r-scale-ec.dcs.redcdn.pl/scale/o2/portal/local/upload/programme/5977COVER/images/5977COVER_1682633854268?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
-  </programme>
-  <programme start="20260101181556 +0000" stop="20260101185121 +0000" channel="IL: FREE TV COMEDY ᴴᴰ">
-    <title lang="he">רמזור 4 - חפר מוציא תואר</title>
-    <desc lang="he">חפר מבין שיש לו בעיה למצוא עבודה ומחליט להוציא תואר. אמיר משתגע שאינו יכול לתקוע את ירדנה מול המסך ליותר מ-10 דקות, ואיצקו פותח פייסבוק כדי להתקרב לדניאל</desc>
-    <icon src="//r-scale-ec.dcs.redcdn.pl/scale/o2/portal/local/upload/programme/8288COVER/images/8288COVER_1686471921146?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
-  </programme>
-  <programme start="20260101182051 +0000" stop="20260101184649 +0000" channel="IL: FREE TV TV SERIES ᴴᴰ">
-    <title lang="he">תסביך אבאל'ה 2 - תרמית פירמידה</title>
-    <desc lang="he">מלקולם לוקח את ג’מה ואת סיידי לסוף שבוע רגוע, אבל כשאביו המנוכר ג’קי מצטרף בלא הזמנה, הוא מזעיק את דרק לעזרה ומגלה את ההתמכרות הסודית שלו.</desc>
-    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/64918/COVER/images/64918_1763402528251.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
-  </programme>
   <programme start="20260101182453 +0000" stop="20260101194324 +0000" channel="IL: FREE TV FAMiLY ISRAELI ᴴᴰ">
     <title lang="he">נערת הדרקון</title>
     <desc lang="he">שרה, נערה צעירה אשר נמצאת במנוסה, מתחברת עם דרקון צעיר ואבוד. הם חוברים יחדיו לחנון של הכיתה על מנת להלחם מול מערכת בית הספר, משטרה וביריונים.</desc>
@@ -4178,6 +3940,11 @@
     <desc lang="he">2021. גיימסטופ, רשת גדולה למשחקי מחשב, נמצאת בירידה והמניה שלה לא שווה דבר. קית', סוחר מניות בעל ערוץ ביוטיוב, דווקא מאמין בה. הוא מעלה סרטונים שקוראים לאנשים להציל את החברה ו'להכניס' לוול סטריט.</desc>
     <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/52143/COVER/images/52143_1760602379971.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
   </programme>
+  <programme start="20260103114226 +0000" stop="20260103135019 +0000" channel="IL: FREE TV MOVIES DRAMA ᴴᴰ">
+    <title lang="he">אמיליה פרז</title>
+    <desc lang="he">ריטה, עורכת דין שחוקה, נקראת לפגישה מסתורית עם ראש קרטל במקסיקו. להפתעתה, הוא מבקש את עזרתה להגשים חלום – לעבור ניתוח לשינוי מין ולחיות תחת הזהות הנשית שלו: אמיליה פרז.</desc>
+    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/62858/COVER/images/62858_1759640642712.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
+  </programme>
   <programme start="20260103115423 +0000" stop="20260103125800 +0000" channel="IL: FREE TV HATUNAMI ᴴᴰ">
     <title lang="he">חתונה ממבט ראשון 4 - ההצגה נגמרת</title>
     <desc lang="he">המומחים מחליטים להתערב בסוף השבוע של הזוגות</desc>
@@ -4255,6 +4022,11 @@
     <desc lang="he">ילדה בת תשע מקבלת מסבה מתנה. חזיר בשם אוינק</desc>
     <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/b69f30b86f764e5f9d8a18efaf83858e/version/0" />
   </programme>
+  <programme start="20260103122936 +0000" stop="20260103135731 +0000" channel="IL: FREE TV FAMiLY ISRAELI ᴴᴰ">
+    <title lang="he">אלפא ואומגה</title>
+    <desc lang="he">2 זאבים שחיים בצדדים השונים של הסולם החברתי יוצאים למסע ארוך כדי להגיע חזרה הביתה ללהקה שלהם.</desc>
+    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/16102/COVER/images/16102_1760015246840.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
+  </programme>
   <programme start="20260103123129 +0000" stop="20260103130341 +0000" channel="IL: FREE TV DRAMA ᴴᴰ">
     <title lang="he">מסודרים 2 - מסודרים 2</title>
     <desc lang="he">קואיצ'י מורי, הטסטר האגדי של נינטנדו, מגיע לארץ כדי לבדוק את הקסדה שפיתחה הרביעייה. החברים באים לאסוף אותו מנתב"ג ומופתעים לגלות שמדובר בילד בן עשר</desc>
@@ -4292,10 +4064,26 @@
     <desc lang="he">ריקי ופנחס נסעו שוב למלון בים המלח ואיתמר שורף את דירתם. אדם, ספיר, משה, אלין, שי ושני נחלצים לעזרה</desc>
     <icon src="//r-scale-ea.dcs.redcdn.pl/scale/o2/portal/local/upload/programme/3787COVER/images/3787COVER_1683201954880?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
   </programme>
+  <programme start="20260103125800 +0000" stop="20260103134503 +0000" channel="IL: FREE TV HATUNAMI ᴴᴰ">
+    <title lang="he">חתונה ממבט ראשון 4 - הפרידה האחרונה</title>
+    <desc lang="he">זוג אחד מפתיע את כולם בהחלטה דרמטית</desc>
+    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/12963/COVER/images/12963_1761193138743.png?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
+  </programme>
+  <programme start="20260103130005 +0000" stop="20260103135953 +0000" channel="IL: FREE TV EREZ NEHEDERET ᴴᴰ">
+    <title lang="he">ארץ נהדרת 21 - מהדורה חובקת עולם</title>
+    <desc lang="he">ארץ נהדרת דואגת לכם במהדורה חובקת עולם. שודר בתאריך: 21/02/2024.</desc>
+    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/42085/COVER/images/42085_1756972821412.png?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
+  </programme>
   <programme start="20260103130341 +0000" stop="20260103133331 +0000" channel="IL: FREE TV DRAMA ᴴᴰ">
     <title lang="he">על קצות האצבעות 2 - פרק 7</title>
     <desc lang="he">אופירה מביאה ליהלי את מכתב הוידוי שלו וסוחטת אותו שיתחתן עם ברית. יהלי מחליט לספר לדני את כל האמת והפעם עומד בזה. הוא רק לא מעלה בדעתו איך היא תגיב</desc>
     <icon src="//r-scale-21.dcs.redcdn.pl/scale/o2/portal/local/upload/programme/3989COVER/images/3989COVER_1682633787727?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
+  </programme>
+  <programme start="20260103130432 +0000" stop="20260103141737 +0000" channel="IL: FREE TV NEXT STAR ᴴᴰ">
+    <title lang="he">הכוכב הבא 11 - החזן שהפתיע</title>
+    <desc lang="he">החזן שהשאיר את השופטים המומים.
+שודר בתאריך: 11/12/2024.</desc>
+    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/56698/COVER/images/56698_1757001605514.png?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
   </programme>
   <programme start="20260103130826 +0000" stop="20260103133212 +0000" channel="IL: FREE TV MOVIES SAVRI ᴴᴰ">
     <title lang="he">סברי מרנן 6 - שב"כ שלום</title>
@@ -4306,5 +4094,117 @@
     <title lang="he">המירוץ לחופשה  1 - האוכל הכי טעים: חלק 1 </title>
     <desc lang="he">נדב בורנשטיין עם ההמלצות הכי שוות לחופשה מושלמת בחו"ל. והפעם: האוכל הכי טעים במירוץ - מסעדת הבשרים עם השואו הכי גדול בכל אירופה, מסעדת המישלן בסלון של סבתא</desc>
     <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/9326/COVER/images/9326_1730968713580.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
+  </programme>
+  <programme start="20260103131907 +0000" stop="20260103144854 +0000" channel="IL: FREE TV COMEDY ᴴᴰ">
+    <title lang="he">מצחיקה שכזאת</title>
+    <desc lang="he">איזבלה פטרסון, כוכבת הוליוודית צעירה, מספרת לעיתונאי בידור כיצד המפגש המקרי שלה עם במאי המחזות מברודווי שינה את חייה.</desc>
+    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/14858/COVER/images/14858_1761193521510.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
+  </programme>
+  <programme start="20260103131942 +0000" stop="20260103134316 +0000" channel="IL: FREE TV COMEDY ᴴᴰ">
+    <title lang="he">הפרלמנט 2 - האקדח</title>
+    <desc lang="he">שאולי, אמציה, אבי, ד"ר הקטור, קרקו ואירינה בסדרת מערכונים המלווים את חייהם ההזויים. והפעם: "האקדח", "קוסומוי", "כנפיים", "הפסקת חשמל", "רעיון לספר"</desc>
+    <icon src="//r-scale-63.dcs.redcdn.pl/scale/o2/portal/local/upload/programme/3462COVER/images/3462COVER_1682633673834?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
+  </programme>
+  <programme start="20260103132300 +0000" stop="20260103145700 +0000" channel="IL: MOVIES ᴴᴰ">
+    <title lang="he"> חגיגה בסנוקר</title>
+    <desc lang="he">
+     קומדיית הקאלט האהובה. זוג נוכלים מסתבכים עם המאפיה, עם הרב, עם הכלה ועם עצמם. על מנת להתיר את הסבך הם יעשו הכל. עם: זאב רווח, יהודה בארקן, יוסף שילוח, טוביה צפיר, טליה שפירא. בימוי: בועז דוידזון, 1975
+    </desc>
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/51cecd73c80e491bb87533c1b3874265/version/0" />
+  </programme>
+  <programme start="20260103132331 +0000" stop="20260103134838 +0000" channel="IL: FREE TV TV SERIES ᴴᴰ">
+    <title lang="he">תסביך אבאל'ה 2 - תחזרי לתמיד</title>
+    <desc lang="he">ג'מה מתקשה להתמודד עם העייפות המתמדת ועם נוכחותה של אימה בדירה בזמן שמלקולם נאלץ לישון אצל דרק. כשהם מבינים שיועיל לכולם שדווינה תעזוב, הם רוקמים מזימה מתוחכמת.</desc>
+    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/64918/COVER/images/64918_1763402528251.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
+  </programme>
+  <programme start="20260103132701 +0000" stop="20260103145239 +0000" channel="IL: FREE TV MOVIES ROMANTIC ᴴᴰ">
+    <title lang="he">זמן משפחתי</title>
+    <desc lang="he">ג'ון נוסע לבקר את אמו החולה. הביקור מחזיר אותו אל משפחתו הלא מתפקדת. אהובת נעוריו מחזרת אחריו בזמן שבת זוגתו ממתינה לו בניו יורק.</desc>
+    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/10612/COVER/images/10612_1759664790380.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
+  </programme>
+  <programme start="20260103133137 +0000" stop="20260103150439 +0000" channel="IL: KIDS ᴴᴰ">
+    <title lang="he">ריו</title>
+    <desc lang="he">כאשר בלו, מקאו מבוית בעיירה קטנה במינסוטה, פוגש את ג'ול החופשית, הוא יוצא להרפתקה בריו דה ז'ניירו עם ציפור החלומות שלו</desc>
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/c8bf4db0fcfb47c9a8c2776ff1612c55/version/0" />
+  </programme>
+  <programme start="20260103133152 +0000" stop="20260103140907 +0000" channel="IL: FREE TV LIFESTYLE ᴴᴰ">
+    <title lang="he">סודות הנדל"ן 4 - ראש המטה לתכנון לאומי היוצא</title>
+    <desc lang="he">מגזין שבועי בהנחיית עורכת הדין דפנה שחר וסיון קליין הפותח דלת לזירה הנדל"נית בארץ ובחו״ל. והשבוע: ראיון עם ראש המטה לתכנון לאומי היוצא</desc>
+    <icon src="//r-scale-20.dcs.redcdn.pl/scale/o2/portal/local/upload/programme/7286COVER/images/7286COVER_1684829759618?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
+  </programme>
+  <programme start="20260103133212 +0000" stop="20260103135632 +0000" channel="IL: FREE TV MOVIES SAVRI ᴴᴰ">
+    <title lang="he">סברי מרנן 6 - הוראות אחרונות</title>
+    <desc lang="he">ריקי מתכננת את ההלוויה והשבעה של עצמה</desc>
+    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/11551/COVER/images/11551_1756919046376.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
+  </programme>
+  <programme start="20260103133331 +0000" stop="20260103142600 +0000" channel="IL: FREE TV DRAMA ᴴᴰ">
+    <title lang="he">חטופים 2 - חלבה</title>
+    <desc lang="he">חיים מנסה לדלות פרטים על המבצע מזאב ויחד עובדים על פיצוח הקוד שבו השתמשו עטר וג'מאל. אורי פולט מידע המסבך אותו ונמרוד פועל מאחורי גבו של אורי לטובת החקירה</desc>
+    <icon src="//r-scale-76.dcs.redcdn.pl/scale/o2/portal/local/upload/programme/4022COVER/images/4022COVER_1682633793271?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
+  </programme>
+  <programme start="20260103133600 +0000" stop="20260103150204 +0000" channel="IL: DOCU ᴴᴰ">
+    <title lang="he">דיוויד הולמס: הפעלולן ששרד</title>
+    <desc lang="he">סיפורו של דיוויד הולמס, שהיה אתלט מצטיין וזכה להיות הפעלולן של דניאל רדקליף - בסרטי הארי פוטר, וחברותם של השניים לאורך השנים, לפני ואחרי התאונה על הסט שהותירה אותו בכיסא גלגלים</desc>
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/42ebfcfbf80248dcb55d4cdebd6265c2/version/0" />
+  </programme>
+  <programme start="20260103133712 +0000" stop="20260103150816 +0000" channel="IL: FREE TV MOVIES ISRAELI ᴴᴰ">
+    <title lang="he">חומוס פול טריילר</title>
+    <desc lang="he">מה קורה כשסוחרי נשק חרדים, מגדלי פרחים, מבריחים, גנגסטרים והמבוקש מס' 1 בעולם, עומדים בדרך של עולה מצרפת שרוצה להתחתן? קומדיית פשע ישראלית שבה כולם משלמים ביוקר!</desc>
+    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/61859/COVER/images/61859_1762249216877.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
+  </programme>
+  <programme start="20260103134316 +0000" stop="20260103141007 +0000" channel="IL: FREE TV COMEDY ᴴᴰ">
+    <title lang="he">עבודה ערבית 3 - מקלט</title>
+    <desc lang="he">דיירי הבניין יורדים למקלט בעקבות אזעקה עולה ויורדת באמצע הלילה. אמג'ד ובני משפחתו מוצאים את עצמם מתגוננים כמיעוט כשבחוץ, כנראה, מתנהלת מלחמה. פרק סיום העונה</desc>
+    <icon src="//r-scale-7f.dcs.redcdn.pl/scale/o2/portal/local/upload/programme/4110COVER/images/4110COVER_1682633675314?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
+  </programme>
+  <programme start="20260103134503 +0000" stop="20260103143154 +0000" channel="IL: FREE TV HATUNAMI ᴴᴰ">
+    <title lang="he">חתונה ממבט ראשון 4 - מפגש הזוגות</title>
+    <desc lang="he">האם הסבב השני יעשה תיקון או יזיק ליחסים?</desc>
+    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/12963/COVER/images/12963_1761193138743.png?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
+  </programme>
+  <programme start="20260103134838 +0000" stop="20260103141237 +0000" channel="IL: FREE TV TV SERIES ᴴᴰ">
+    <title lang="he">תסביך אבאל'ה 2 - חול ואצטרובלים</title>
+    <desc lang="he">מלקולם שומר על סיידי בזמן שג’מה יוצאת לבלות ודרק משכנע אותו להצטרף לתוכנית נקמה באקסית שלו, אבל כשג’מה מודיעה שהיא חוזרת מתחילה פאניקה.</desc>
+    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/64918/COVER/images/64918_1763402528251.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
+  </programme>
+  <programme start="20260103135632 +0000" stop="20260103142247 +0000" channel="IL: FREE TV MOVIES SAVRI ᴴᴰ">
+    <title lang="he">סברי מרנן 1 - דירה להסתיר</title>
+    <desc lang="he">האם שי ושני יספרו על היחידה שמתפנה בשכונה?</desc>
+    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/24384/COVER/images/24384_1756919036572.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
+  </programme>
+  <programme start="20260103135953 +0000" stop="20260103140620 +0000" channel="IL: FREE TV EREZ NEHEDERET ᴴᴰ">
+    <title lang="he">ארץ נהדרת - שי פירון מדבר על הרפורמה בחינוך</title>
+    <desc lang="he">במלוא שנה לממשלה, שר החינוך שי פירון מגיע לארץ נהדרת ומספר על השינויים שהוא עוד מתכנן לבצע, למשל: בחשבון נעיף את לוח הכפל, ובלשון את בניין התפעל</desc>
+    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/30308/COVER/images/30308_1757350902504.png?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
+  </programme>
+  <programme start="20260103140620 +0000" stop="20260103145630 +0000" channel="IL: FREE TV EREZ NEHEDERET ᴴᴰ">
+    <title lang="he">ארץ נהדרת - גיבורי ספרי הילדים</title>
+    <desc lang="he">איפה נמצאים היום נפתלי מ"סיר הסירים", יעל מ"הבית של יעל", סיגלית מ"מעשה בחמישה בלונים", אופיר מ"תירס חם" ואפילו פלוטו מ"איה פלוטו"</desc>
+    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/32700/COVER/images/32700_1756972812812.png?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
+  </programme>
+  <programme start="20260103140907 +0000" stop="20260103145300 +0000" channel="IL: FREE TV LIFESTYLE ᴴᴰ">
+    <title lang="he"> 1 - רג'י ייטס פוגש עולם - עונה 1</title>
+    <desc lang="he">משפיענים הם הסלבריטאי החדש ועם התהילה הזו מגיע הלחץ לעמוד בקצב. רג'י ייטס מגלה עד כמה מוכנים משפיענים לעבור ניתוחים בחיפוש אחר שלמות היופי.</desc>
+    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/10043/COVER/images/10043_1765104086854.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
+  </programme>
+  <programme start="20260103141007 +0000" stop="20260103143136 +0000" channel="IL: FREE TV COMEDY ᴴᴰ">
+    <title lang="he">עבודה ערבית 4 - הריון</title>
+    <desc lang="he">אמג'ד מוצא את עצמו מחוסר עבודה, הוא רב עם בושרה ההריונית ונוטש את הבית. את הלילה הוא מבלה באוהל, כשפתאום צצים עוד אוהלים ואמג'ד הופך למנהיג המחאה החברתית</desc>
+    <icon src="//r-scale-7f.dcs.redcdn.pl/scale/o2/portal/local/upload/programme/4110COVER/images/4110COVER_1682633675314?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
+  </programme>
+  <programme start="20260103141237 +0000" stop="20260103143835 +0000" channel="IL: FREE TV TV SERIES ᴴᴰ">
+    <title lang="he">תסביך אבאל'ה 2 - תרמית פירמידה</title>
+    <desc lang="he">מלקולם לוקח את ג’מה ואת סיידי לסוף שבוע רגוע, אבל כשאביו המנוכר ג’קי מצטרף בלא הזמנה, הוא מזעיק את דרק לעזרה ומגלה את ההתמכרות הסודית שלו.</desc>
+    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/64918/COVER/images/64918_1763402528251.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
+  </programme>
+  <programme start="20260103142247 +0000" stop="20260103144756 +0000" channel="IL: FREE TV MOVIES SAVRI ᴴᴰ">
+    <title lang="he">סברי מרנן 8 - על הגיסים ועל הנפלאות</title>
+    <desc lang="he">הגיסים של משפחת חסון עוזרים לגיסים האחרים</desc>
+    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/24384/COVER/images/24384_1756919036572.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
+  </programme>
+  <programme start="20260103143835 +0000" stop="20260103150518 +0000" channel="IL: FREE TV TV SERIES ᴴᴰ">
+    <title lang="he">תסביך אבאל'ה 2 - מגע של עור בעור</title>
+    <desc lang="he">ג’מה וצ’רי מסתכסכות בגלל המדריך הנאה במפגש השירים של סיידי, וג'מה מנסה לעשות סדר בעניינים. בינתיים, ג’קי יוצא עם מלקולם ועם דרק לטיול באזור הפסגות.</desc>
+    <icon src="//d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/programme/64918/COVER/images/64918_1763402528251.jpg?dsth=177&amp;dstw=315&amp;srcmode=0&amp;srcx=0&amp;srcy=0&amp;quality=65&amp;type=1&amp;srcw=1/1&amp;srch=1/1" />
   </programme>
 </tv>
